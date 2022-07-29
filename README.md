@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/fackerlee"><img src="https://api.daily.dev/devcards/0a7401bcf0bd43f4aad5e43ba3ecd672.png?r=a4f" align="right" width=300px alt="Yong Wei's Dev Card"/></a>  
+<a href="https://app.daily.dev/fackerlee"><img src="https://github.com/fackerlee/fackerlee/blob/master/devcard.svg" align="right" width=300px alt="Yong Wei's Dev Card"/></a>  
 
 # Hey 👋, I'm Yong Wei!  
   
