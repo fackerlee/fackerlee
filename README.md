@@ -81,6 +81,25 @@
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 11/09/2022 00:33:20 UTC
+```text
+⌚︎ Time Zone: Asia/Kuala_Lumpur
+
+💬 Programming Languages: 
+TypeScript               15 hrs 11 mins      ████████████████████████░   97.96% 
+JavaScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.56% 
+CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+
+🔥 Editors: 
+VS Code                  15 hrs 30 mins      █████████████████████████   100.0%
+
+💻 Operating System: 
+Mac                      15 hrs 30 mins      █████████████████████████   100.0%
+
+```
+
+
+ Last Updated on 18/09/2022 00:38:44 UTC
 <!--END_SECTION:waka-->
