@@ -18,9 +18,9 @@
 
 ### Glad to see you here!  
 
-- 🧑‍💻 I'm currently work at `Aglive` as `Software Engineering`. 
+- 🧑‍💻 I'm currently work at `Keysight` as `IT Engineering`. 
 
-- 🌱 I’m currently learning react and new languages.
+- 🌱 I’m currently learning Python, Django, MySql and new some languages.
 
 - 👯 I’m looking forward to collaborate on open source projects.
 
