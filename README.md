@@ -96,21 +96,20 @@
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Python                   18 hrs 44 mins      ███████████░░░░░░░░░░░░░░   43.53 % 
-SQL                      18 hrs 31 mins      ███████████░░░░░░░░░░░░░░   43.04 % 
-TypeScript               2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-HTML                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-YAML                     43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Python                   9 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   40.67 % 
+SQL                      8 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   34.36 % 
+HTML                     2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+TypeScript               1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+JSON                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
 
 🔥 Editors: 
-PyCharm                  24 hrs 21 mins      ██████████████░░░░░░░░░░░   56.60 % 
-DataGrip                 18 hrs 29 mins      ███████████░░░░░░░░░░░░░░   42.96 % 
-VS Code                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+PyCharm                  15 hrs 38 mins      ████████████████░░░░░░░░░   65.64 % 
+DataGrip                 8 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   34.36 % 
 
 💻 Operating System: 
-Mac                      43 hrs 2 mins       █████████████████████████   100.00 % 
+Mac                      23 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/05/2026 00:11:52 UTC
+ Last Updated on 10/05/2026 00:13:14 UTC
 <!--END_SECTION:waka-->
