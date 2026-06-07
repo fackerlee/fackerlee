@@ -90,6 +90,27 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 31/05/2026 00:18:19 UTC
+```text
+🕑︎ Time Zone: Asia/Kuala_Lumpur
+
+💬 Programming Languages: 
+Python                   10 hrs 43 mins      ██████████████░░░░░░░░░░░   56.51 % 
+SQL                      3 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+HTML                     1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+TypeScript               1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+JSON                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+
+🔥 Editors: 
+PyCharm                  14 hrs 58 mins      ████████████████████░░░░░   78.95 % 
+DataGrip                 3 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+Claude Code              25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+
+💻 Operating System: 
+Mac                      18 hrs 58 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 07/06/2026 00:19:45 UTC
 <!--END_SECTION:waka-->
