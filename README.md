@@ -96,22 +96,21 @@
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Python                   14 hrs 11 mins      ███████░░░░░░░░░░░░░░░░░░   28.73 % 
-SQL                      12 hrs 42 mins      ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
-TypeScript               8 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-HTML                     3 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-CSS                      2 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+SQL                      12 hrs 17 mins      ████████████░░░░░░░░░░░░░   47.47 % 
+Python                   7 hrs               ███████░░░░░░░░░░░░░░░░░░   27.07 % 
+TypeScript               2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Markdown                 1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+HTML                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 
 🔥 Editors: 
-PyCharm                  26 hrs 52 mins      ██████████████░░░░░░░░░░░   54.36 % 
-DataGrip                 12 hrs 47 mins      ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
-Claude Code              9 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
-Copilot CLI              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+DataGrip                 12 hrs 13 mins      ████████████░░░░░░░░░░░░░   47.20 % 
+PyCharm                  7 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   30.60 % 
+Claude Code              5 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
 
 💻 Operating System: 
-Mac                      49 hrs 25 mins      █████████████████████████   100.00 % 
+Mac                      25 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/06/2026 00:21:53 UTC
+ Last Updated on 28/06/2026 00:18:30 UTC
 <!--END_SECTION:waka-->
