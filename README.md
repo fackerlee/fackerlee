@@ -96,21 +96,21 @@
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-SQL                      12 hrs 17 mins      ████████████░░░░░░░░░░░░░   47.47 % 
-Python                   7 hrs               ███████░░░░░░░░░░░░░░░░░░   27.07 % 
-TypeScript               2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-Markdown                 1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-HTML                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+Python                   12 hrs 7 mins       █████████████░░░░░░░░░░░░   50.35 % 
+TypeScript               5 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
+Markdown                 1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+SQL                      1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+YAML                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 
 🔥 Editors: 
-DataGrip                 12 hrs 13 mins      ████████████░░░░░░░░░░░░░   47.20 % 
-PyCharm                  7 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   30.60 % 
-Claude Code              5 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
+PyCharm                  16 hrs 34 mins      █████████████████░░░░░░░░   68.86 % 
+Claude Code              6 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   26.57 % 
+DataGrip                 1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
 
 💻 Operating System: 
-Mac                      25 hrs 54 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/06/2026 00:18:30 UTC
+ Last Updated on 05/07/2026 00:17:49 UTC
 <!--END_SECTION:waka-->
