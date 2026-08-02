@@ -96,22 +96,43 @@
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-JavaScript               14 hrs 21 mins      █████████░░░░░░░░░░░░░░░░   36.65 % 
-SQL                      10 hrs 55 mins      ███████░░░░░░░░░░░░░░░░░░   27.88 % 
-Python                   10 hrs 43 mins      ███████░░░░░░░░░░░░░░░░░░   27.36 % 
-TypeScript               1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-YAML                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Python                   12 hrs 42 mins      ████████░░░░░░░░░░░░░░░░░   31.89 % 
+JavaScript               11 hrs 39 mins      ███████░░░░░░░░░░░░░░░░░░   29.25 % 
+SQL                      9 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+YAML                     2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+Bash                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 
 🔥 Editors: 
-PyCharm                  26 hrs 55 mins      █████████████████░░░░░░░░   68.71 % 
-DataGrip                 10 hrs 55 mins      ███████░░░░░░░░░░░░░░░░░░   27.88 % 
-Claude Code              1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+PyCharm                  29 hrs 15 mins      ██████████████████░░░░░░░   73.42 % 
+DataGrip                 9 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+Claude Code              59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 
 💻 Operating System: 
-Mac                      39 hrs 10 mins      █████████████████████████   100.00 % 
+Mac                      39 hrs 51 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 2 hrs 4 mins (5.19%)
+
+✍️ 47 lines written by AI, 7,547 lines written by hand (0.62% AI-written)
+
+🔤 1,680,346 Input Tokens, 8,155 Output Tokens
+
+💵 $6.28 Estimated AI Cost This Week
+
+🧠 17 AI Sessions, 38 AI Prompts
+
+Sonnet                   56 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.62% of written lines came from AI
+📚 Verbose Prompter — average 4,024 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 99.68% of changed lines were hand-edited
 ```
 
 
- Last Updated on 26/07/2026 01:20:25 UTC
+ Last Updated on 02/08/2026 01:19:47 UTC
 <!--END_SECTION:waka-->
