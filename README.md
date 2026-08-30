@@ -96,44 +96,44 @@
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Python                   20 hrs 32 mins      ██████████░░░░░░░░░░░░░░░   41.83 % 
-JavaScript               16 hrs 48 mins      █████████░░░░░░░░░░░░░░░░   34.22 % 
-SQL                      5 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-TypeScript               1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-Markdown                 53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Python                   14 hrs 12 mins      ██████████░░░░░░░░░░░░░░░   40.65 % 
+JavaScript               12 hrs 25 mins      █████████░░░░░░░░░░░░░░░░   35.58 % 
+SQL                      4 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+TypeScript               50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+HTML                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 
 🔥 Editors: 
-PyCharm                  37 hrs 51 mins      ███████████████████░░░░░░   77.11 % 
-Claude Code              5 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-DataGrip                 5 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+PyCharm                  25 hrs 32 mins      ██████████████████░░░░░░░   73.09 % 
+DataGrip                 4 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+Claude Code              4 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
 
 💻 Operating System: 
-Mac                      49 hrs 6 mins       █████████████████████████   100.00 % 
+Mac                      34 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 36 mins (19.56%)
+⏱ AI Coding Time: 9 hrs 21 mins (26.79%)
 
-✍️ 3,408 lines written by AI, 11,807 lines written by hand (22.4% AI-written)
+✍️ 1,397 lines written by AI, 14,284 lines written by hand (8.91% AI-written)
 
-🔤 4,882,613 Input Tokens, 421,479 Output Tokens
+🔤 4,885,510 Input Tokens, 410,580 Output Tokens
 
-💵 $41.62 Estimated AI Cost This Week
+💵 $63.30 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 372 AI Prompts
+🧠 22 AI Sessions, 153 AI Prompts
 
-Sonnet                   2,025 lines         ███████████████░░░░░░░░░░   58.09 % 
-Opus                     1,461 lines         ██████████░░░░░░░░░░░░░░░   41.91 % 
+Opus                     1,266 lines         ████████████████████░░░░░   78.93 % 
+Sonnet                   338 lines           █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 22.4% of written lines came from AI
-📝 Concise Prompter — average 278 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
-🔍 Hands-On Reviewer — 99.76% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 8.91% of written lines came from AI
+📚 Verbose Prompter — average 11,915 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 97.91% of changed lines were hand-edited
 ```
 
 
- Last Updated on 23/08/2026 00:27:52 UTC
+ Last Updated on 30/08/2026 01:51:00 UTC
 <!--END_SECTION:waka-->
