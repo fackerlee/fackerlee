@@ -90,51 +90,6 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Kuala_Lumpur
-
-💬 Programming Languages: 
-Python                   15 hrs 36 mins      ██████████████░░░░░░░░░░░   54.63 % 
-SQL                      7 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   26.79 % 
-TypeScript               51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-Other                    47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-textmate                 39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-
-🔥 Editors: 
-PyCharm                  15 hrs 39 mins      ██████████████░░░░░░░░░░░   54.78 % 
-DataGrip                 7 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   26.40 % 
-Claude Code              4 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Copilot CLI              52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-
-💻 Operating System: 
-Mac                      28 hrs 34 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 7 hrs 56 mins (27.78%)
-
-✍️ 395 lines written by AI, 7,130 lines written by hand (5.25% AI-written)
-
-🔤 3,334,688 Input Tokens, 229,855 Output Tokens
-
-💵 $17.09 Estimated AI Cost This Week
-
-🧠 24 AI Sessions, 145 AI Prompts
-
-Sonnet                   422 lines           █████████████████████████   100.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 5.25% of written lines came from AI
-📝 Concise Prompter — average 413 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 96.08% of changed lines were hand-edited
-```
-
-
- Last Updated on 01/11/2026 02:43:14 UTC
+ Last Updated on 08/11/2026 16:24:53 UTC
 <!--END_SECTION:waka-->
