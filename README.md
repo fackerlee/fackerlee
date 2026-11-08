@@ -90,6 +90,53 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-145%20hrs%2039%20mins-blue?style=flat)
 
- Last Updated on 08/11/2026 16:24:53 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kuala_Lumpur
+
+💬 Programming Languages: 
+Python                   16 hrs 21 mins      ██████████████░░░░░░░░░░░   55.54 % 
+SQL                      6 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+JavaScript               1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Text                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+Bash                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+
+🔥 Editors: 
+PyCharm                  15 hrs 50 mins      █████████████░░░░░░░░░░░░   53.82 % 
+DataGrip                 5 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+Copilot CLI              4 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+Claude Code              3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+
+💻 Operating System: 
+Mac                      29 hrs 26 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 10 hrs 58 mins (37.26%)
+
+✍️ 724 lines written by AI, 13,824 lines written by hand (4.98% AI-written)
+
+🔤 7,143,487 Input Tokens, 506,680 Output Tokens
+
+💵 $37.34 Estimated AI Cost This Week
+
+🧠 36 AI Sessions, 127 AI Prompts
+
+Sonnet                   837 lines           █████████████████████████   99.64 % 
+GPT                      3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 4.98% of written lines came from AI
+📚 Verbose Prompter — average 3,287 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 95.27% of changed lines were hand-edited
+```
+
+
+ Last Updated on 08/11/2026 16:40:49 UTC
 <!--END_SECTION:waka-->
