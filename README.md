@@ -90,53 +90,52 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-145%20hrs%2039%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Python                   16 hrs 21 mins      ██████████████░░░░░░░░░░░   55.54 % 
-SQL                      6 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
-JavaScript               1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-Text                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
-Bash                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+Python                   15 hrs 44 mins      ████████████░░░░░░░░░░░░░   47.23 % 
+SQL                      9 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   29.98 % 
+Text                     2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+TypeScript               1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+HTML                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 
 🔥 Editors: 
-PyCharm                  15 hrs 50 mins      █████████████░░░░░░░░░░░░   53.82 % 
-DataGrip                 5 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
-Copilot CLI              4 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-Claude Code              3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+PyCharm                  14 hrs 3 mins       ███████████░░░░░░░░░░░░░░   42.20 % 
+DataGrip                 9 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   28.83 % 
+Copilot CLI              6 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
+Claude Code              3 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
 
 💻 Operating System: 
-Mac                      29 hrs 26 mins      █████████████████████████   100.00 % 
+Mac                      33 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 58 mins (37.26%)
+⏱ AI Coding Time: 14 hrs 34 mins (43.74%)
 
-✍️ 724 lines written by AI, 13,824 lines written by hand (4.98% AI-written)
+✍️ 2,291 lines written by AI, 2,659 lines written by hand (46.28% AI-written)
 
-🔤 7,143,487 Input Tokens, 506,680 Output Tokens
+🔤 12,288,989 Input Tokens, 793,707 Output Tokens
 
-💵 $37.34 Estimated AI Cost This Week
+💵 $60.84 Estimated AI Cost This Week
 
-🧠 36 AI Sessions, 127 AI Prompts
+🧠 40 AI Sessions, 187 AI Prompts
 
-Sonnet                   837 lines           █████████████████████████   99.64 % 
-GPT                      3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Sonnet                   2,520 lines         ████████████████████████░   96.11 % 
+Pycharm                  102 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 4.98% of written lines came from AI
-📚 Verbose Prompter — average 3,287 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 95.27% of changed lines were hand-edited
+⚖️ Balanced with AI — 46.28% of written lines came from AI
+📚 Verbose Prompter — average 2,869 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 93.53% of changed lines were hand-edited
 ```
 
 
- Last Updated on 08/11/2026 16:40:49 UTC
+ Last Updated on 15/11/2026 03:17:00 UTC
 <!--END_SECTION:waka-->
