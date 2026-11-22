@@ -96,46 +96,48 @@
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Python                   15 hrs 44 mins      ████████████░░░░░░░░░░░░░   47.23 % 
-SQL                      9 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   29.98 % 
-Text                     2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-TypeScript               1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-HTML                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Python                   18 hrs 34 mins      ██████████████░░░░░░░░░░░   56.45 % 
+SQL                      5 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+YAML                     2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+Docker                   1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+Text                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 
 🔥 Editors: 
-PyCharm                  14 hrs 3 mins       ███████████░░░░░░░░░░░░░░   42.20 % 
-DataGrip                 9 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   28.83 % 
-Copilot CLI              6 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
-Claude Code              3 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+PyCharm                  15 hrs 35 mins      ████████████░░░░░░░░░░░░░   47.35 % 
+Copilot CLI              7 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
+DataGrip                 5 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+Claude Code              4 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
 
 💻 Operating System: 
-Mac                      33 hrs 19 mins      █████████████████████████   100.00 % 
+Mac                      32 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 34 mins (43.74%)
+⏱ AI Coding Time: 17 hrs 17 mins (52.55%)
 
-✍️ 2,291 lines written by AI, 2,659 lines written by hand (46.28% AI-written)
+✍️ 2,854 lines written by AI, 2,833 lines written by hand (50.18% AI-written)
 
-🔤 12,288,989 Input Tokens, 793,707 Output Tokens
+🔤 10,917,222 Input Tokens, 729,881 Output Tokens
 
-💵 $60.84 Estimated AI Cost This Week
+💵 $55.54 Estimated AI Cost This Week
 
-🧠 40 AI Sessions, 187 AI Prompts
+🧠 42 AI Sessions, 227 AI Prompts
 
-Sonnet                   2,520 lines         ████████████████████████░   96.11 % 
-Pycharm                  102 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Sonnet                   2,356 lines         ███████████████████░░░░░░   75.46 % 
+Fable                    533 lines           ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Opus                     201 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Pycharm                  32 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 46.28% of written lines came from AI
-📚 Verbose Prompter — average 2,869 characters per prompt
+⚖️ Balanced with AI — 50.18% of written lines came from AI
+📚 Verbose Prompter — average 1,955 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 93.53% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 78.84% of changed lines were hand-edited
 ```
 
 
- Last Updated on 15/11/2026 03:17:00 UTC
+ Last Updated on 22/11/2026 03:37:17 UTC
 <!--END_SECTION:waka-->
